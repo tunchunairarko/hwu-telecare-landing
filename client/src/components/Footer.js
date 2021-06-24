@@ -7,13 +7,13 @@ function Footer() {
         <footer>
             <Row>
                 <Col sm="12">
-                    <Link class="footer-links" to="/privacy-policy">
+                    <Link className="footer-links" to="/privacy-policy">
                         Privacy Policy
                     </Link>
-                    <a target="_blank" rel="noreferrer" class="footer-links" href="http://care.hw.ac.uk/">
+                    <a target="_blank" rel="noreferrer" className="footer-links" href="http://care.hw.ac.uk/">
                         CARE Group
                     </a>
-                    <a target="_blank" rel="noreferrer" class="footer-links" href="https://ralt.hw.ac.uk/">
+                    <a target="_blank" rel="noreferrer" className="footer-links" href="https://ralt.hw.ac.uk/">
                         RALT
                     </a>
                     {/* <a href="" className="footer-links">Privacy policy</a>
