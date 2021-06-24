@@ -53,7 +53,7 @@ export default function LandingPage() {
         </Col>
         <Col sm="12" className="center-content" style={{ marginTop: "2%" }}>
           <ReactPlayer
-            url="https://www.youtube.com/watch?v=ug50zmP9I7s"
+            url="https://youtu.be/lPs1DQs5lvk"
           />
         </Col>
       </Row>
